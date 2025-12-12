@@ -10,7 +10,7 @@
   > version: 0.1.0-alpha
 ```
 
-## 0x01: the manifesto
+the manifesto
 
 syscall-sdk is the missing link between blockchain and reality<br>
 while traditional oracles import real-world data to the blockchain, syscall-sdk exports blockchain actions to the real world<br>
