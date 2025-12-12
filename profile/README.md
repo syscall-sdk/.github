@@ -10,8 +10,6 @@
   > version: 0.1.0-alpha
 ```
 
---------------------------------
-
 ## 0x01: the manifesto
 
 syscall-sdk is the missing link between blockchain and reality<br>
